@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Christinele14
 - 👀 I’m interested in discovering new things.
-- 🌱 I’m currently learning Python and going deeper into programming world.
-- 💞️ I’m looking to several chances to train myself, receive advice from the experienced people, and share with the newbies like me :)
+- 💞️ I’m looking to several chances to train myself, receive advice from the experienced people, and share with the people with similar passion in programming like me :)
 
 
 <!---
